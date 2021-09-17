@@ -14,3 +14,7 @@ The objective of this assignment was to introduce the specific structures that m
 - Footer
 - Aside w/ summaries
 - I made updates in the html and css files
+
+# Final
+
+![Final mock up](./assets/final.png)
