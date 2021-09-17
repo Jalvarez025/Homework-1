@@ -17,4 +17,4 @@ The objective of this assignment was to introduce the specific structures that m
 
 # Final
 
-![Final mock up](./assets/final.png)
+![Final mock up](./assets/images/final.png)
